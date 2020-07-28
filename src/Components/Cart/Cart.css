@@ -1,0 +1,13 @@
+.center-text{
+    text-align: center;
+    font-weight: 400;
+}
+
+.items{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    font-size: 12px;
+}

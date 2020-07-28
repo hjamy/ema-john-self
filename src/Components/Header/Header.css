@@ -1,0 +1,30 @@
+.logo{
+    text-align: center;
+}
+
+.header img{
+    height: 80px;
+}
+
+.header ul{
+    background-color: black;
+    line-height: 40px;
+    margin-top: 20px;
+    padding: 0 40px;
+}
+
+.header li{
+    display: inline-block;
+}
+
+ul a{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    padding: 5px 15px;
+    
+}
+
+header ul li:hover{
+    background-color: gray;
+}
